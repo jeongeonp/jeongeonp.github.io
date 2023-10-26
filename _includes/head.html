@@ -65,13 +65,22 @@
   <link rel="shortcut icon" href="{{ "/favicon.ico" | absolute_url }}" type="image/x-icon"/>
 
   <!-- Google Analytics -->
-  <!---->
+  <!--
   <script>
     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
     ga('create', "{{ site.google_analytics }}", "auto");
     ga('send', "pageview");
   </script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-KP9N2FZX2C"></script>
+  -->
 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KP9N2FZX2C"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'G-KP9N2FZX2C');
+  </script>
 </head>
