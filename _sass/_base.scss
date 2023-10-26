@@ -124,6 +124,28 @@ a {
   }
 }
 
+a#special {
+  color: $text-color;
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+}
+
+a#focus {
+  color: $brand-color;
+  
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+    font-weight: 710;
+  }
+}
+
+
 /**
  * Enforce bold (Firefox)
  */

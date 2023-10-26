@@ -181,3 +181,20 @@
 
   
 }
+
+
+.pub-title {
+  color: $brand-color;
+  font-weight: 600;
+  font-size: 105%;
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+
+.pub-me {
+  //color: $brand-color;
+  font-style: italic;
+}

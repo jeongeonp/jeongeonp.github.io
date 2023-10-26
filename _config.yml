@@ -3,9 +3,9 @@
 
 title: Jeongeon Park
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Personal Website for Jeongeon Park, HCI Researcher
 baseurl: "" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://jeongeonpark.com" # the base hostname & protocol for the site
 og_image: /assets/img/jeongeon_profile_2023.jpg
 google_analytics: "G-ZHTHS9DHPJ"
 
@@ -13,8 +13,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: About
-    - name: work
+    - name: Publications
+    - name: CV
+      slug: /assets/pdf/cv_230907.pdf
+    #- name: work
 
 footer:
   show_powered_by: true

@@ -2,11 +2,11 @@
 layout: home
 profile_picture:
   src: /assets/img/jeongeon_profile_2023.jpg
-  alt: website picture
+  alt: profile picture of Jeongeon Park
 ---
 
 <p>
-My name is Jeongeon (pronounced <i>Jeong-on</i>) Park, and I am a researcher at the <a href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a href="https://jyskwon.github.io/">Prof. Jean Y. Song</a> and the members of DIAG. <br/>
+Welcome! My name is Jeongeon (pronounced <i>Jeong-on</i>) Park, and I am a researcher at the <a href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a href="https://jyskwon.github.io/">Prof. Jean Y. Song</a> and the members of DIAG. <br/>
 I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a> with a Master's Degree, where I was part of the <a href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a href="https://juhokim.com/">Prof. Juho Kim</a>.
 </p>
 
@@ -22,7 +22,6 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 </p>
 
 <p>
-
 <i><b>I am a Ph.D. applicant for Fall 2024!</b></i>
 
 </p>
@@ -30,7 +29,7 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 <hr><br/>
 
 
-<h3>News</h3>
+<h2>News</h2>
 <b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
 <b class="highlights">Oct 2023</b> Joining the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬<br/>
 <b class="highlights">Aug 2023</b> Our poster "AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice" is accepted to UIST 2023 Student Innovation Contest 📄 <br/>
