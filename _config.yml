@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of the site
 url: "https://jeongeonpark.com" # the base hostname & protocol for the site
 og_image: /assets/img/jeongeon_profile_2023.jpg
-google_analytics: "G-KP9N2FZX2C"
+google_analytics: "G-ZHTHS9DHPJ"
 
 header:
   pages:
@@ -47,7 +47,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
 
 # Excluded items
 exclude:
