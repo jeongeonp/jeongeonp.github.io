@@ -3,7 +3,7 @@
 
 title: Jeongeon Park
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal Website for Jeongeon Park, HCI Researcher
+  
 baseurl: "" # the subpath of the site
 url: "https://jeongeonpark.com" # the base hostname & protocol for the site
 og_image: /assets/img/jeongeon_profile_2023.jpg
