@@ -11,7 +11,8 @@ I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing 
 </p>
 
 <p>
-I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in various tasks and contexts. To do so, I design and build interactive systems that leverage large-scale crowdsourced information and AI techniques. </p> <p>
+
+I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. To do so, I design and build interactive systems that leverage large-scale crowdsourced information and AI techniques. </p> <p>
 These days, I am particularly interested in the following keywords: conversational user interface (CUI), large-language model (LLM), conversational agents, and decision-making support.
 
 </p>
