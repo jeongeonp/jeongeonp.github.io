@@ -23,7 +23,7 @@ slug: /about
 <p>
     <a id="focus" class="pub-title" href="https://dl.acm.org/doi/10.1145/3586182.3625114">AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice</a> <br/>
     <b class="pub-me">Jeongeon Park*</b>, DaEun Choi* (* equal contribution) <br>
-    <b style="color:grey;margin:5px 0 0;">UIST 2023 Student Innovation Contest | Jury's Best SIC Honorable Mention </b>
+    <b style="color:grey;margin:5px 0 0;">UIST 2023 Student Innovation Contest |</b> <b style="color:$brand-color;margin:5px 0 0;">Jury's Best SIC Honorable Mention </b>
 </p>
 
 <p>

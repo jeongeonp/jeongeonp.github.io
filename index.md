@@ -17,6 +17,11 @@ These days, I am particularly interested in the following keywords: conversation
 
 </p>
 
+<!--
+I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. 
+By designing and building interactive systems with AI techniques and/or crowdsourcing, 
+I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.-->
+
 <p>
 My most recent project aimed to support unfamiliar decision-making by designing multi-agent conversational interactions powered by LLMs.
 
@@ -31,6 +36,7 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 
 
 <h2>News</h2>
+<b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention Award 🏆 <br/>
 <b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
 <b class="highlights">Oct 2023</b> Joining the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬<br/>
 <b class="highlights">Aug 2023</b> Our poster "AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice" is accepted to UIST 2023 Student Innovation Contest 📄 <br/>
