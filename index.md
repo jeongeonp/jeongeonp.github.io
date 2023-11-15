@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Welcome! My name is Jeongeon (pronounced <i>Jeong-on</i>) Park, and I am a researcher at the <a href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a href="https://jyskwon.github.io/">Prof. Jean Y. Song</a> and the members of DIAG. <br/>
+Welcome! My name is Jeongeon (pronounced <i>Jeong-on</i> <a href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a researcher at the <a href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a href="https://jyskwon.github.io/">Prof. Jean Y. Song</a> and the members of DIAG. <br/>
 I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a> with a Master's Degree, where I was part of the <a href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a href="https://juhokim.com/">Prof. Juho Kim</a>.
 </p>
 
