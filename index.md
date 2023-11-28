@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/jeongeon_profile_2023.jpg
-  alt: profile picture of Jeongeon Park
+  alt: Profile picture of Jeongeon Park
 ---
 
 <p>
@@ -12,8 +12,8 @@ I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing 
 
 <p>
 
-I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. To do so, I design and build interactive systems that leverage large-scale crowdsourced information and AI techniques. </p> <p>
-These days, I am particularly interested in the following keywords: conversational user interface (CUI), large-language model (LLM), conversational agents, and decision-making support.
+I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information</b> in connection to their <b>unique preferences, values, or contexts</b>. To do so, I design and build interactive systems utilizing large-scale crowdsourced information and AI techniques. </p> <p>
+These days, I am particularly interested in how human(s) and agent(s) can collaborate to complete a task, in the context of designing public speech. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 
 </p>
 
@@ -28,7 +28,9 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 </p>
 
 <p>
-<i><b>I am a Ph.D. applicant for Fall 2024!</b></i>
+Send me an email if you want to chat about research, life, or anything! <br/>
+  <i><b>I am a Ph.D. applicant for Fall 2024!</b></i> 
+
 
 </p>
 
@@ -36,7 +38,7 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 
 
 <h2>News</h2>
-<b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention Award 🏆 <br/>
+<b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention 🏆 <br/>
 <b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
 <b class="highlights">Oct 2023</b> Joining the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬<br/>
 <b class="highlights">Aug 2023</b> Our poster "AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice" is accepted to UIST 2023 Student Innovation Contest 📄 <br/>
