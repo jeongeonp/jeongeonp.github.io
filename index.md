@@ -12,21 +12,21 @@ I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing 
 
 <p>
 
-I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information</b> in connection to their <b>unique preferences, values, or contexts</b>. To do so, I design and build interactive systems utilizing large-scale crowdsourced information and AI techniques. </p> <p>
-These days, I am particularly interested in how human(s) and agent(s) can collaborate to complete a task, in the context of designing public speech. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
+My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their <b>unique preferences and contexts</b>. To do so, I design and build interactive systems utilizing large-scale crowdsourced information and AI techniques. </p> <p>
+These days, I am interested in how we could support collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 
 </p>
 
 <!--
 I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. 
 By designing and building interactive systems with AI techniques and/or crowdsourcing, 
-I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.-->
+I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.
 
 <p>
 My most recent project aimed to support unfamiliar decision-making by designing multi-agent conversational interactions powered by LLMs.
 
 </p>
-
+-->
 <p>
 Send me an email if you want to chat about research, life, or anything! <br/>
   <i><b>I am a Ph.D. applicant for Fall 2024!</b></i> 
