@@ -11,10 +11,11 @@ I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing 
 </p>
 
 <p>
+My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. In particular, I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their unique preferences and contexts, through designing and building AI-infused interactive systems. 
+</p> 
 
-My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their <b>unique preferences and contexts</b>. To do so, I design and build interactive systems utilizing large-scale crowdsourced information and AI techniques. </p> <p>
-These days, I am interested in how we could support collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
-
+<p>
+These days, I am investigating how we could support collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 </p>
 
 <!--
