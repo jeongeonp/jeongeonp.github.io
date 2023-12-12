@@ -15,7 +15,7 @@ My research interest is in Human-Computer Interaction (HCI), Human-AI Interactio
 </p> 
 
 <p>
-These days, I am investigating how we could support collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
+These days, I am interested in investigating how we could support collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 </p>
 
 <!--
