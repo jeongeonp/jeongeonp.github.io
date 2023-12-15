@@ -7,6 +7,17 @@ slug: /about
 <h2>Conference Papers</h2>
 <div class="pub-container">
     <div class="pub-teaser-image">
+            <img src="./assets/img/dynamiclabels-teaser.jpg"/>
+    </div>
+    <div class="pub-contents">
+        <a id="focus" class="pub-title" href="">DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback</a> <br/>
+        <b class="pub-me">Jeongeon Park</b>, Eun-Young Ko, Yeon Su Park, Jinyeong Yim, Juho Kim <br>
+        <b style="color:grey;margin:5px 0 0;"> IUI 2024 (to appear)  </b>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
             <img src="./assets/img/protochat-teaser.jpeg"/>
     </div>
     <div class="pub-contents">
@@ -43,7 +54,7 @@ slug: /about
 
 <div class="pub-container">
     <div class="pub-contents">
-        <a id="focus" class="pub-title" href="/assets/pdf/HCIK_2022_reBalance.pdf">reBalance: A Customizable Data Visualization Approach to Keeping a Balanced Health</a> <br/>
+        <a id="focus" class="pub-title" href="/assets/pdf/hcikorea2022-rebalance-capstone.pdf">reBalance: A Customizable Data Visualization Approach to Keeping a Balanced Health</a> <br/>
         Sangkyung Kwak, Nabila Sindi Listyo, <b class="pub-me">Jeongeon Park</b>, Uichin Lee <br>
         <b style="color:grey;margin:5px 0 0;"> HCI Korea 2022 Capstone Paper </b>
     </div>

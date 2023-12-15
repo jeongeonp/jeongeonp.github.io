@@ -36,6 +36,7 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 
 
 <h2>News</h2>
+<b class="highlights">Dec 2023</b> Excited to share that my first first-authored paper ''DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback'' is accepted to IUI 2024 📄 <br/>
 <b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention Award 🏆 <br/>
 <b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
 <b class="highlights">Oct 2023</b> Joining the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬<br/>
