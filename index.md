@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/jeongeon_profile_2023.jpg
-  alt: profile picture of Jeongeon Park
+  alt: Profile picture of Jeongeon Park
 ---
 
 <p>
@@ -11,24 +11,27 @@ I recently graduated from <a href="https://cs.kaist.ac.kr/">School of Computing 
 </p>
 
 <p>
+My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. In particular, I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their unique preferences and contexts, through designing and building AI-infused interactive systems. 
+</p> 
 
-I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. To do so, I design and build interactive systems that leverage large-scale crowdsourced information and AI techniques. </p> <p>
-These days, I am particularly interested in the following keywords: conversational user interface (CUI), large-language model (LLM), conversational agents, and decision-making support.
-
+<p>
+These days, I am interested in investigating how we could support collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 </p>
 
 <!--
 I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. 
 By designing and building interactive systems with AI techniques and/or crowdsourcing, 
-I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.-->
+I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.
 
 <p>
 My most recent project aimed to support unfamiliar decision-making by designing multi-agent conversational interactions powered by LLMs.
 
 </p>
-
+-->
 <p>
-<i><b>I am a Ph.D. applicant for Fall 2024!</b></i>
+Send me an email if you want to chat about research, life, or anything! <br/>
+  <i><b>I am a Ph.D. applicant for Fall 2024!</b></i> 
+
 
 </p>
 
@@ -37,7 +40,7 @@ My most recent project aimed to support unfamiliar decision-making by designing 
 
 <h2>News</h2>
 <b class="highlights">Dec 2023</b> Excited to share that my first first-authored paper ''DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback'' is accepted to IUI 2024 📄 <br/>
-<b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention Award 🏆 <br/>
+<b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention 🏆 <br/>
 <b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
 <b class="highlights">Oct 2023</b> Joining the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬<br/>
 <b class="highlights">Aug 2023</b> Our poster "AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice" is accepted to UIST 2023 Student Innovation Contest 📄 <br/>
