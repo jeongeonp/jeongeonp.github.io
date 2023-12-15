@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-slug: /about
+title: Publications
+slug: /publications
 ---
 
 <h2>Conference Papers</h2>
