@@ -7,7 +7,7 @@ slug: /about
 <h2>Conference Papers</h2>
 <div class="pub-container">
     <div class="pub-teaser-image">
-            <img src="./assets/img/dynamiclabels-teaser.jpg"/>
+            <img class="img-shadow" src="./assets/img/dynamiclabels-teaser.jpg"/>
     </div>
     <div class="pub-contents">
         <a id="focus" class="pub-title" href="">DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback</a> <br/>
@@ -18,7 +18,7 @@ slug: /about
 
 <div class="pub-container">
     <div class="pub-teaser-image">
-            <img src="./assets/img/protochat-teaser.jpeg"/>
+            <img class="img-shadow" src="./assets/img/protochat-teaser.jpeg"/>
     </div>
     <div class="pub-contents">
         <a id="focus" class="pub-title" href="https://dl.acm.org/doi/10.1145/3432924">ProtoChat: Supporting the Conversation Design Process with Crowd Feedback</a> <br/>
@@ -31,7 +31,7 @@ slug: /about
 <h2>Preprints</h2>
 <div class="pub-container">
     <div class="pub-teaser-image">
-    <img src="./assets/img/choicemates-teaser.jpg" />
+        <img class="img-shadow" src="./assets/img/choicemates-teaser.jpg" />
     </div>
     <div class="pub-contents">
         <a id="focus" class="pub-title" href="https://arxiv.org/abs/2310.01331">ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
@@ -43,7 +43,7 @@ slug: /about
 <h2>Posters, Demos, Workshop Papers</h2>
 <div class="pub-container">
     <div class="pub-teaser-image">
-    <img src="./assets/img/audilens-teaser.jpg" />
+        <img class="img-shadow" src="./assets/img/audilens-teaser.jpg" />
     </div>
     <div class="pub-contents">
         <a id="focus" class="pub-title" href="https://dl.acm.org/doi/10.1145/3586182.3625114">AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice</a> <br/>
