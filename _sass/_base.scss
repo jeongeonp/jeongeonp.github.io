@@ -120,28 +120,39 @@ a {
 
   &:hover {
     color: $text-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
 a#special {
-  color: $grey-color;
+  color: $grey-color-dark;
 
   &:hover {
     color: $text-color;
+    //font-weight: bold;
     text-decoration: underline;
-    font-weight: bold;
   }
 }
 
-a#focus {
+a#blue-bg {
   color: $brand-color;
-  
+  &:hover {
+    color: $brand-color;
+    //text-decoration: wavy underline $grey-color 2px;
+    background-color: $grey-color-light;
+    //font-weight: 710;
+    text-decoration: none;
+  }
+}
+
+a#plain-bg {
+  color: $grey-color-dark;
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
-    font-weight: 710;
+    color: $brand-color;
+    //text-decoration: wavy underline $grey-color 2px;
+    background-color: $grey-color-light;
+    text-decoration: none;
   }
 }
 

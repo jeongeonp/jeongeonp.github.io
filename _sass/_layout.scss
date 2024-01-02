@@ -189,14 +189,14 @@
   font-size: 105%;
 
   &:hover {
-    color: $text-color;
+    color: $grey-color-dark;
     text-decoration: underline;
   }
 }
 
 .pub-me {
-  //color: $brand-color;
-  font-style: italic;
+  color: $text-color;
+  //font-style: italic;
 }
 
 
@@ -219,6 +219,7 @@
     .pub-contents {
       width: 100%;
       margin: 0 24px;
+      color: $grey-color-dark;
     }
   }
 }
@@ -238,11 +239,17 @@
       width: 100%;
       // width: auto;
       margin: 0px;
+      color: $grey-color-dark;
     }
   }
 }
 
 
+.pub-venue {
+  color:$grey-color-dark;
+  margin: 5px 0 0;
+  font-weight: 500;
+}
 .img-shadow {
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
 }
@@ -264,3 +271,13 @@
   width:100%;
 }
 */
+
+.collaborator {
+  color: $grey-color-dark;
+}
+
+.collaborator:hover {
+  color: $grey-color-dark;
+  text-decoration: wavy underline lime;
+  background-color: transparent;
+}
