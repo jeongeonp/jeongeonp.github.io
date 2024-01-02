@@ -12,7 +12,7 @@ slug: /publications
     <div class="pub-contents">
         <a id="focus" class="pub-title" href="">DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback</a> <br/>
         <b class="pub-me">Jeongeon Park</b>, Eun-Young Ko, Yeon Su Park, Jinyeong Yim, Juho Kim <br>
-        <b style="color:grey;margin:5px 0 0;"> IUI 2024 (to appear)  </b>
+        <b style="color:grey;margin:5px 0 0;"> IUI 2024 (to appear) </b>
     </div>
 </div>
 
@@ -37,6 +37,17 @@ slug: /publications
         <a id="focus" class="pub-title" href="https://arxiv.org/abs/2310.01331">ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
         <b class="pub-me">Jeongeon Park</b>, Bryan Min, Xiaojuan Ma, Juho Kim <br>
         <b style="color:grey;margin:5px 0 0;">  arXiv 2023 (October 2023) </b>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
+        <img class="img-shadow" src="./assets/img/teaser-creativeconnect.png" />
+    </div>
+    <div class="pub-contents">
+        <a id="focus" class="pub-title" href="https://arxiv.org/abs/2312.11949">CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI</a> <br/>
+        DaEun Choi, Sumin Hong, <b class="pub-me">Jeongeon Park</b>, John Joon Young Chung, Juho Kim <br>
+        <b style="color:grey;margin:5px 0 0;">  arXiv 2023 (December 2023) </b>
     </div>
 </div>
 
