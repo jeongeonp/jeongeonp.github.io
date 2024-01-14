@@ -100,7 +100,7 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-contents">
-        <a id="blue-bg" class="pub-title" href="https://arxiv.org/abs/2310.01331">Supporting an Iterative Conversation Design Process</a> <br/>
+        <a id="blue-bg" class="pub-title" href="https://dl.acm.org/doi/abs/10.1145/3334480.3382951">Supporting an Iterative Conversation Design Process</a> <br/>
         <a class="collaborator" href="https://www.yoonseochoi.com/">Yoonseo Choi</a>, <a class="collaborator" href="https://hyungyu.com/">Hyungyu Shin</a>, <a class="collaborator" href="https://www.linkedin.com/in/tjmonsi/">Toni-Jan Keith Monserrat</a>, <a class="collaborator" href="https://scholar.google.com/citations?user=nXhihPQAAAAJ">Nyoungwoo Lee</a>, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
         <span class="pub-venue"> CHI 2020 Extended Abstracts </span>
     </div>
