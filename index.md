@@ -40,6 +40,7 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 
 
 <h2>News</h2>
+<b class="highlights">Jan 2023</b> Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp">HCI Korea 2024</a> ✈️<br/>
 <b class="highlights">Dec 2023</b> Excited to share that my first first-authored paper ''DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback'' is accepted to IUI 2024 📄 <br/>
 <b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention 🏆 <br/>
 <b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
