@@ -14,6 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Publications
+    - name: Personal
     - name: CV
       slug: /assets/pdf/cv_240103.pdf
     #- name: work

@@ -25,36 +25,86 @@ By designing and building interactive systems with AI techniques and/or crowdsou
 I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.
 
 <p>
-My most recent project aimed to support unfamiliar decision-making by designing multi-agent conversational interactions powered by LLMs.
 
 </p>
 -->
 <p>
 Send me an email if you want to chat about research, life, or anything! <br/>
-  <i><b>I am a Ph.D. applicant for Fall 2024!</b></i> 
+  <i style="font-weight:600">I am a Ph.D. applicant for Fall 2024!</i> 
 
 
 </p>
 
-<hr><br/>
+<hr><div style="height: 20px"></div>
 
 
 <h2>News</h2>
-<b class="highlights">Jan 2023</b> Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp">HCI Korea 2024</a> ✈️<br/>
-<b class="highlights">Dec 2023</b> Excited to share that my first first-authored paper ''DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback'' is accepted to IUI 2024 📄 <br/>
-<b class="highlights">Nov 2023</b> AudiLens got an Jury's Best SIC Honorable Mention 🏆 <br/>
-<b class="highlights">Oct 2023</b> Attending UIST 2023 in-person. Excited for my first on-site conference, let's chat! ✈️ <br/>
-<b class="highlights">Oct 2023</b> Joining the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬<br/>
-<b class="highlights">Aug 2023</b> Our poster "AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice" is accepted to UIST 2023 Student Innovation Contest 📄 <br/>
-<b class="highlights">Jun 2023</b> I have defended! Officially a Master now 🎓 <br/>
-<b class="highlights">Apr 2023</b> Attending CHI 2023 virtually 💻 <br/>
-<b class="highlights">Jan 2023</b> Submitted two papers to CSCW 2023. Fingers crossed 🤞<br/>
 <!--
-<b class="highlights">Aug 2023</b> <br/>
-<b class="highlights">Aug 2023</b> <br/>
-<b class="highlights">Aug 2023</b> <br/>
-<b class="highlights">Aug 2023</b> <br/>
-<b class="highlights">Aug 2023</b> <br/>
-<b class="highlights">Aug 2023</b> <br/>
-<b class="highlights">Aug 2023</b> <br/>
+<p style="margin-bottom: 15px">
+<b class="highlights">Jan 2024</b> Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" style="font-weight:500">HCI Korea 2024</a> ✈️<br/>
+<b class="highlights">Dec 2023</b> My first first-authored paper ''DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback'' is accepted to IUI 2024 📄 <br/>
+<b class="highlights"></b>  <br/>
+<b class="highlights"></b>  <br/>
+<b class="highlights"></b> <br/>
+<b class="highlights"></b>  <br/>
+<b class="highlights"></b> <br/>
+<b class="highlights">Apr 2023</b>  <br/>
+<b class="highlights">Jan 2023</b> Submitted two papers to CSCW 2023. Fingers crossed 🤞<br/>
+<details>
+  <summary>More news:</summary>
+  <b class="highlights">Aug 2023</b> <br/>
+  <b class="highlights">Aug 2023</b> <br/>
+  <b class="highlights">Aug 2023</b> <br/>
+  <b class="highlights">Aug 2023</b> <br/>
+</details>
+</p>
 -->
+<p>
+<div>
+   <table style="padding-bottom:10px;">
+     <tr>
+       <td class="highlights">Jan 2024</td>
+       <td>Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" style="font-weight:500">HCI Korea 2024</a> ✈️</td>
+     </tr>
+     <tr>
+       <td class="highlights">Dec 2023</td>
+       <td>My first first-authored paper ''DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback'' is accepted to IUI 2024 📄</td>
+     </tr>
+     <tr>
+       <td class="highlights">Nov 2023</td>
+       <td> AudiLens got an Jury's Best SIC Honorable Mention 🏆</td>
+     </tr>
+     <tr>
+       <td class="highlights">Oct 2023</td>
+       <td> Attending UIST 2023. Excited for my first on-site conference, let's chat! ✈️</td>
+     </tr>
+     <tr>
+       <td class="highlights">Oct 2023</td>
+       <td> Joined the DGIST Intelligence Augmentation Group (DIAG) as a researcher 🔬</td>
+     </tr>
+     <tr>
+       <td class="highlights">Aug 2023</td>
+       <td> Our poster "AudiLens: Configurable LLM-Generated Audiences for Public Speech Practice" is accepted to UIST 2023 Student Innovation Contest 📄</td>
+     </tr>
+     <tr>
+       <td class="highlights">Jun 2023</td>
+       <td> I have defended! Officially a Master now 🎓</td>
+     </tr>
+     
+     
+   </table>
+   <details>
+      <summary>Click for more news:</summary>
+      <table>
+        <tr>
+          <td class="highlights">Apr 2023</td>
+          <td> Attending CHI 2023 virtually 💻</td>
+        </tr>
+        <tr>
+          <td class="highlights">Jan 2023</td>
+          <td> Submitted two papers to CSCW 2023. Fingers crossed 🤞</td>
+        </tr>
+     </table>
+    </details>
+</div>
+</p>

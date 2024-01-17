@@ -49,6 +49,10 @@
     color: $text-color;
     line-height: $base-line-height;
 
+    &:hover{
+    text-decoration: wavy underline orange;
+    }
+
     // Gaps between nav items, but not on the first one
     &:not(:first-child) {
       margin-left: 20px;
@@ -173,7 +177,7 @@
   color: $brand-color;
   font-weight: 600;
   padding: 0 5px 0 0;
-  width: 10%;
+
   //
   // &:visited {
   //   color: darken($brand-color, 15%);
@@ -185,7 +189,7 @@
 
 .pub-title {
   color: $brand-color;
-  font-weight: 700;
+  font-weight: 500 !important;
   font-size: 105%;
 
   &:hover {
@@ -280,4 +284,17 @@
   color: $grey-color-dark;
   text-decoration: wavy underline orange;
   background-color: transparent;
+}
+
+
+td:first-child {
+  text-align: right;
+  font-weight: bold;
+  min-width: 65px;
+  vertical-align: top;
+}
+td:last-child {
+  padding: 0px;
+  vertical-align: top;
+  
 }
