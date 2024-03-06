@@ -5,6 +5,18 @@ slug: /publications
 ---
 
 <h2>Conference Papers</h2>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
+        <img class="img-shadow" src="./assets/img/teaser/creativeconnect-teaser.png" />
+    </div>
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="https://arxiv.org/abs/2312.11949">CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI</a> <br/>
+        <a class="collaborator" href="https://daeunchoi.com/">DaEun Choi</a>, Sumin Hong, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://johnr0.github.io/">John Joon Young Chung</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
+        <span class="pub-venue">  CHI 2024 (to appear) </span>
+    </div>
+</div>
+
 <div class="pub-container">
     <div class="pub-teaser-image">
             <img class="img-shadow" src="./assets/img/teaser/dynamiclabels-teaser.jpg"/>
@@ -41,16 +53,7 @@ slug: /publications
     </div>
 </div>
 
-<div class="pub-container">
-    <div class="pub-teaser-image">
-        <img class="img-shadow" src="./assets/img/teaser/creativeconnect-teaser.png" />
-    </div>
-    <div class="pub-contents">
-        <a id="blue-bg" class="pub-title" href="https://arxiv.org/abs/2312.11949">CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI</a> <br/>
-        <a class="collaborator" href="https://daeunchoi.com/">DaEun Choi</a>, Sumin Hong, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://johnr0.github.io/">John Joon Young Chung</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
-        <span class="pub-venue">  arXiv 2023 (December 2023) </span>
-    </div>
-</div>
+
 
 <div style="height: 20px"></div>
 

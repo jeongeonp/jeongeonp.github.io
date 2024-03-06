@@ -16,7 +16,9 @@ In particular, I am interested in supporting individuals and groups to <b>effect
 </p> 
 
 <p>
-These days, I am interested in investigating how we could foster collaboration between human(s) and agent(s), particularly in the context of public speech practice. <!--in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
+These days, I am investigating how we could foster collaboration between human(s) and agent(s), particularly in the context of academic speech rehearsal.
+<!-- interested in the idea of human-agent(s) collaboration, and is investigating how simulated audiences through LLM could aid academic speech practice. 
+I am looking into the domain of academic speech rehearsal, and how simula in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 </p>
 
 <!--
@@ -30,7 +32,6 @@ I aim to not only support the process to be more efficient but also enhance the 
 -->
 <p>
 Send me an email if you want to chat about research, life, or anything! <br/>
-  <i style="font-weight:600">I am a Ph.D. applicant for Fall 2024!</i> 
 
 
 </p>
@@ -62,6 +63,10 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <p>
 <div>
    <table style="padding-bottom:10px;">
+    <tr>
+       <td class="highlights">Mar 2024</td>
+       <td>Attending <a href="https://iui.acm.org/2024/" style="font-weight:500">IUI 2024</a> in Greenville, SC and presenting <a href="" style="font-weight:500">DynamicLabels</a> ✈️</td>
+     </tr>
      <tr>
        <td class="highlights">Jan 2024</td>
        <td>Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" style="font-weight:500">HCI Korea 2024</a> ✈️</td>
