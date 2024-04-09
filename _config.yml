@@ -22,9 +22,12 @@ header:
 footer:
   show_powered_by: true
   contact:
+    # - name: Email
+    #   value: jeongeonpark1@gmail.com
+    #   link: mailto:jeongeonpark1@gmail.com
     - name: Email
-      value: jeongeonpark1@gmail.com
-      link: mailto:jeongeonpark1@gmail.com
+      value: "jeongeonp@dgist.ac.kr"
+      link: mailto:jeongeonp@dgist.ac.kr
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
@@ -37,8 +40,10 @@ footer:
     - name: GitHub
       link: http://github.com/jeongeonp
     - name: SemanticScholar
+      value: Semantic Scholar
       link: https://www.semanticscholar.org/author/Jeongeon-Park/78918606
     - name: GoogleScholar
+      value: Google Scholar
       link: https://scholar.google.com/citations?user=J6RjgLwAAAAJ&hl=en
     
     # - name: RSS

@@ -61,15 +61,25 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 </p>
 -->
 <p>
-<div>
-   <table style="padding-bottom:10px;">
+<div style="overflow-y: scroll; max-height: 220px;">
+   <table style="padding-bottom:10px; ">
     <tr>
        <td class="highlights">Mar 2024</td>
-       <td>Attending <a href="https://iui.acm.org/2024/" style="font-weight:500">IUI 2024</a> in Greenville, SC and presenting <a href="" style="font-weight:500">DynamicLabels</a> ✈️</td>
+       <td> Our paper "EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners' Transcript-Based Annotations" is accepted to CSCW 2024 📄
+       </td>
+    </tr>
+    <tr>
+       <td class="highlights">Mar 2024</td>
+       <td> Attending <a href="https://iui.acm.org/2024/" style="font-weight:500">IUI 2024</a> in Greenville, SC and presenting <a href="publications#dynamic-labels" style="font-weight:500">DynamicLabels</a> ✈️</td>
      </tr>
      <tr>
        <td class="highlights">Jan 2024</td>
-       <td>Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" style="font-weight:500">HCI Korea 2024</a> ✈️</td>
+       <td> Our paper "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI" is accepted to CHI 2024 📄
+       </td>
+     </tr>
+     <tr>
+       <td class="highlights">Jan 2024</td>
+       <td> Attending <a href="https://conference.hcikorea.org/hcik2024/main/main.asp" style="font-weight:500">HCI Korea 2024</a> ✈️</td>
      </tr>
      <tr>
        <td class="highlights">Dec 2023</td>
@@ -95,10 +105,17 @@ Send me an email if you want to chat about research, life, or anything! <br/>
        <td class="highlights">Jun 2023</td>
        <td> I have defended! Officially a Master now 🎓</td>
      </tr>
-     
+     <tr>
+        <td class="highlights">Apr 2023</td>
+        <td> Attending CHI 2023 virtually 💻</td>
+      </tr>
+      <tr>
+        <td class="highlights">Jan 2023</td>
+        <td> Submitted two papers to CSCW 2023. Fingers crossed 🤞</td>
+      </tr>
      
    </table>
-   <details>
+   <!-- <details>
       <summary>Click for more news:</summary>
       <table>
         <tr>
@@ -110,6 +127,6 @@ Send me an email if you want to chat about research, life, or anything! <br/>
           <td> Submitted two papers to CSCW 2023. Fingers crossed 🤞</td>
         </tr>
      </table>
-    </details>
+    </details> -->
 </div>
 </p>
