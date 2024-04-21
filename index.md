@@ -70,8 +70,7 @@ Send me an email if you want to chat about research, life, or anything! <br/>
     </tr> -->
      <tr>
        <td class="highlights">Apr 2024</td>
-       <td> Our paper "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion
-" is accepted to DIS 2024. Preprint coming soon 📄
+       <td> Our paper "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion" is accepted to DIS 2024. Preprint coming soon 📄
        </td>
     </tr>
     <tr>
