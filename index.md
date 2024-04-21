@@ -63,11 +63,11 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <p>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
-     <tr>
+<!--      <tr>
        <td class="highlights">May 2024</td>
-       <td> I will be attending <a href="https://chi2024.acm.org/" style="font-weight:500">CHI 2024</a> and presenting at the <a href="https://sites.google.com/view/chi2024-sensemaking-workshop/home" style="font-weight:500">Sensemaking Workshop</a>. Send me an email if you would like to chat! ✈️  
+       <td> I will be attending <a href="https://chi2024.acm.org/" style="font-weight:500">CHI 2024</a> and presenting at the <a href="https://sites.google.com/view/chi2024-sensemaking-workshop/home" style="font-weight:500">Sensemaking Workshop</a>. ✈️  
        </td>
-    </tr>
+    </tr> -->
      <tr>
        <td class="highlights">Apr 2024</td>
        <td> Our paper "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion
