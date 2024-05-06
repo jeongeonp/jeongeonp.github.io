@@ -22,12 +22,12 @@ header:
 footer:
   show_powered_by: true
   contact:
-    # - name: Email
-    #   value: jeongeonpark1@gmail.com
-    #   link: mailto:jeongeonpark1@gmail.com
     - name: Email
       value: "jeongeonp@dgist.ac.kr"
       link: mailto:jeongeonp@dgist.ac.kr
+    - name: Email
+      value: jeongeonpark1@gmail.com
+      link: mailto:jeongeonpark1@gmail.com
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
