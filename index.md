@@ -65,12 +65,12 @@ Send me an email if you want to chat about research, life, or anything! <br/>
    <table style="padding-bottom:10px; ">
    <tr>
        <td class="highlights">May 2024</td>
-       <td> Attending <a href="https://chi2024.acm.org/" style="font-weight:500">CHI 2024</a> and the <a href="https://sites.google.com/view/chi2024-sensemaking-workshop/home" style="font-weight:500">Sensemaking Workshop</a> in Hawaii 🌺🌴 ✈️
+       <td> Attending <a href="https://chi2024.acm.org/" style="font-weight:500">CHI 2024</a> and the <a href="https://sites.google.com/view/chi2024-sensemaking-workshop/home" style="font-weight:500">Sensemaking Workshop</a> in Hawaii 🌺🌴, come check out <a href="https://programs.sigchi.org/chi/2024/program/content/147936" style="font-weight:500">CreativeConnect on May 13th (Mon)</a>! ✈️
        </td>
     </tr>
     <tr>
        <td class="highlights">Mar 2024</td>
-       <td> Our paper "EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners' Transcript-Based Annotations" is accepted to CSCW 2024 📄
+       <td> EduLive is conditionally accepted to CSCW 2024 after a major revision cycle 📄
        </td>
     </tr>
     <tr>
