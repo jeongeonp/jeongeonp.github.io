@@ -6,8 +6,7 @@ profile_picture:
 ---
 
 <p>
-Welcome! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a researcher at the <a id="blue-bg" href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a id="blue-bg" href="https://jyskwon.github.io/">Prof. Jean Y. Song</a> and the members of DIAG. <br/>
-I recently graduated from <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a> with a Master's Degree, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Prof. Juho Kim</a>.
+Welcome! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a researcher at the <a id="blue-bg" href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a> and the members of DIAG.
 </p>
 
 <p>
@@ -16,7 +15,7 @@ In particular, I am interested in supporting individuals and groups to <b>effect
 </p> 
 
 <p>
-These days, I am investigating how we could foster collaboration between human(s) and agent(s), particularly in the context of academic speech rehearsal.
+These days, I am interested in <b>how we could design optimal interactions for the human(s) to interact with LLM-powered agent(s)</b>, particularly in the context of academic speech rehearsal.
 <!-- interested in the idea of human-agent(s) collaboration, and is investigating how simulated audiences through LLM could aid academic speech practice. 
 I am looking into the domain of academic speech rehearsal, and how simula in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
 </p>
@@ -30,6 +29,11 @@ I aim to not only support the process to be more efficient but also enhance the 
 
 </p>
 -->
+<p>
+I got my Master's and Bachelor's degree from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. I will be starting my Ph.D studies in the Fall at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a>.
+</p>
+
+
 <p>
 Send me an email if you want to chat about research, life, or anything! <br/>
 
@@ -63,6 +67,11 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <p>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
+   <tr>
+       <td class="highlights">May 2024</td>
+       <td> Our paper "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion" is accepted to DIS 2024 📄
+       </td>
+    </tr>
    <tr>
        <td class="highlights">May 2024</td>
        <td> Attending <a href="https://chi2024.acm.org/" style="font-weight:500">CHI 2024</a> and the <a href="https://sites.google.com/view/chi2024-sensemaking-workshop/home" style="font-weight:500">Sensemaking Workshop</a> in Hawaii 🌺🌴, come check out <a href="https://programs.sigchi.org/chi/2024/program/content/147936" style="font-weight:500">CreativeConnect on May 13th (Mon)</a>! ✈️

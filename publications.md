@@ -19,12 +19,23 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-teaser-image">
+        <img class="img-shadow" src="./assets/img/teaser/aqua-teaser.png" />
+    </div>
+    <div class="pub-contents" id="edulive">
+        <a id="blue-bg" class="pub-title" href="" >Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion</a> <br/>
+        Hyunseung Lim, Ji Yong Cho, <a class="collaborator" href="https://taewankim.io/" >Taewan Kim</a>, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://hyungyu.com/" >Hyungyu Shin</a>, Seulgi Choi, Sunghyun Park, Kyungjae Lee, <a class="collaborator" href="https://juhokim.com/" >Juho Kim</a>, <a class="collaborator" href="https://moontae.people.uic.edu/" >Moontae Lee</a>, <a class="collaborator" href="https://galaxytourist.notion.site/galaxytourist/Hwajung-Hong-cc10b0291bbe4ca38dbf4882cd687423" >Hwajung Hong</a> <br>
+        <span class="pub-venue">  DIS 2024 (to appear) </span>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
         <img class="img-shadow" src="./assets/img/teaser/creativeconnect-teaser.png" />
     </div>
     <div class="pub-contents" id="creative-connect">
         <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/chi24-creativeconnect.pdf" >CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI</a> <br/>
         <a class="collaborator" href="https://daeunchoi.com/" >DaEun Choi</a>, Sumin Hong, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://johnr0.github.io/" >John Joon Young Chung</a>, <a class="collaborator" href="https://juhokim.com/" >Juho Kim</a> <br>
-        <span class="pub-venue">  CHI 2024 (to appear) </span> | <a id="plain-bg" href="https://arxiv.org/abs/2312.11949" >arXiv</a> | <a id="plain-bg" href="http://creativeconnect.kixlab.org/" >Project Website</a> 
+        <span class="pub-venue">  CHI 2024 </span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3613904.3642794" >ACM DL</a> | <a id="plain-bg" href="https://arxiv.org/abs/2312.11949" >arXiv</a> | <a id="plain-bg" href="http://creativeconnect.kixlab.org/" >Project Website</a> 
     </div>
 </div>
 
