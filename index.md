@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hi! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> and the members of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a>.
+Hi! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a>.
 
 </p>
 
@@ -21,7 +21,7 @@ These days, I am interested in <b>how we could design optimal interactions for t
 </p> -->
 
 <p>
-I got my Master's and Bachelor's degree from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Before joining UCSD, I was a researcher at the <a id="blue-bg" href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
+I got my M.S. and B.S. degrees from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Prior to joining UCSD, I was researcher at <a id="blue-bg" href="https://www.dgist.ac.kr/">DGIST</a> working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
 </p>
 
 
