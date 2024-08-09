@@ -6,7 +6,8 @@ profile_picture:
 ---
 
 <p>
-Welcome! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a researcher at the <a id="blue-bg" href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a> and the members of DIAG.
+Hi! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> and the members of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a>.
+
 </p>
 
 <p>
@@ -14,23 +15,13 @@ My research interest is in Human-Computer Interaction (HCI), Human-AI Interactio
 In particular, I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their unique preferences and contexts, through designing and building AI-infused interactive systems. 
 </p> 
 
-<p>
+<!-- <p>
 These days, I am interested in <b>how we could design optimal interactions for the human(s) to interact with LLM-powered agent(s)</b>, particularly in the context of academic speech rehearsal.
-<!-- interested in the idea of human-agent(s) collaboration, and is investigating how simulated audiences through LLM could aid academic speech practice. 
-I am looking into the domain of academic speech rehearsal, and how simula in the following keywords: large-language model (LLM), multiple conversational agents, and feedback generation.-->
-</p>
 
-<!--
-I am interested in supporting people to <b>effectively navigate, comprehend, and utilize information</b> in tasks and contexts that requires <b>complex information or opinions</b>. 
-By designing and building interactive systems with AI techniques and/or crowdsourcing, 
-I aim to not only support the process to be more efficient but also enhance the confidence and long-term abilities of people in long-term.
+</p> -->
 
 <p>
-
-</p>
--->
-<p>
-I got my Master's and Bachelor's degree from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. I will be starting my Ph.D studies in the Fall at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a>.
+I got my Master's and Bachelor's degree from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Before joining UCSD, I was a researcher at the <a id="blue-bg" href="https://diag.kr/">DGIST Intelligence Augmentation Group (DIAG)</a>, working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
 </p>
 
 

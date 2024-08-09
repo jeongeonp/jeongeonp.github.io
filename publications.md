@@ -22,9 +22,9 @@ slug: /publications
         <img class="img-shadow" src="./assets/img/teaser/aqua-teaser.png" />
     </div>
     <div class="pub-contents" id="edulive">
-        <a id="blue-bg" class="pub-title" href="" >Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion</a> <br/>
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/dis24-aqua.pdf" >Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion</a> <br/>
         Hyunseung Lim, Ji Yong Cho, <a class="collaborator" href="https://taewankim.io/" >Taewan Kim</a>, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://hyungyu.com/" >Hyungyu Shin</a>, Seulgi Choi, Sunghyun Park, Kyungjae Lee, <a class="collaborator" href="https://juhokim.com/" >Juho Kim</a>, <a class="collaborator" href="https://moontae.people.uic.edu/" >Moontae Lee</a>, <a class="collaborator" href="https://galaxytourist.notion.site/galaxytourist/Hwajung-Hong-cc10b0291bbe4ca38dbf4882cd687423" >Hwajung Hong</a> <br>
-        <span class="pub-venue">  DIS 2024 (to appear) </span>
+        <span class="pub-venue">  DIS 2024 </span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3643834.3660705" >ACM DL</a>
     </div>
 </div>
 
