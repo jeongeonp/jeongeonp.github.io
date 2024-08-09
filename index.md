@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hi! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a>.
+Hi! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am an incoming first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a> & <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a>.
 
 </p>
 
