@@ -59,6 +59,11 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
    <tr>
+       <td class="highlights">Sep 2024</td>
+       <td> Started a Ph.D. program at UC San Diego! Excited for what's next 🎓
+       </td>
+    </tr>
+   <tr>
        <td class="highlights">May 2024</td>
        <td> Our paper "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion" is accepted to DIS 2024 📄
        </td>

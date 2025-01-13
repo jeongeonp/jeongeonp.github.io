@@ -16,7 +16,7 @@ header:
     - name: Publications
     - name: Personal
     - name: CV
-      slug: /assets/pdf/JeongeonPark_cv_241024.pdf
+      slug: /assets/pdf/JeongeonPark_cv_250113.pdf
     #- name: work
 
 footer:
@@ -25,9 +25,6 @@ footer:
     - name: Email
       value: "jep034@ucsd.edu"
       link: mailto:jep034@ucsd.edu
-    - name: Email
-      value: jeongeonpark1@gmail.com
-      link: mailto:jeongeonpark1@gmail.com
     # - name: WeChat
     #   value: YourWeChatUsername
     #   link: "#"
