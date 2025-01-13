@@ -6,13 +6,13 @@ profile_picture:
 ---
 
 <p>
-Hi! My name is Jeongeon (<i>Jeong-on</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a> and <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>.
+Hi! My name is Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a> and <a id="blue-bg" href="https://designlab.ucsd.edu/">Design Lab</a>.
 
 </p>
 
 <p>
 My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. 
-In particular, I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their unique preferences and contexts, through designing and building AI-infused interactive systems. 
+In particular, I am interested in supporting individuals and groups to <b>effectively navigate, comprehend, and utilize information on the web</b> in connection to their <b>unique preferences and contexts</b>, through designing and building AI-infused interactive systems. 
 </p> 
 
 <!-- <p>
@@ -60,7 +60,7 @@ Send me an email if you want to chat about research, life, or anything! <br/>
    <table style="padding-bottom:10px; ">
    <tr>
        <td class="highlights">Sep 2024</td>
-       <td> Started a Ph.D. program at UC San Diego! Excited for what's next 🎓
+       <td> Started a Ph.D. program at UC San Diego. Excited for what's next 📚
        </td>
     </tr>
    <tr>
