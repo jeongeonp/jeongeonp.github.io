@@ -22,6 +22,8 @@
   line-height: 56px;
   letter-spacing: -1px;
   float: left;
+  font-weight: 700;
+  font-family: $alternative-font-family;
 
   img {
     height: 28px;
@@ -201,6 +203,7 @@
 
 .pub-me {
   color: $text-color;
+  font-weight: 600;
   //font-style: italic;
 }
 

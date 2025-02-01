@@ -8,7 +8,7 @@ Interested in learning about what I like and do outside of research? Well, here 
 
 <h2>Random Facts about Me</h2>
 
-<p>
+<!-- <p>
 After coming to grad school, I got into Pokémon... especially collecting Pokémon cards! Since then, whenever I see a card shop, I can't resist the urge to stop by and get a pack of cards to open 😅
 
 </p>
@@ -16,7 +16,7 @@ After coming to grad school, I got into Pokémon... especially collecting Pokém
 <p>
 Below are some of my favorite cards :)
 </p>
-<hr/>
+<hr/> -->
 <p>
 
 I started playing the clarinet since 4th grade in elementary school. Throughout high school, I was a part of the symphonic band and the marching band, which was the highlight of my high school years. <br/> <br/>

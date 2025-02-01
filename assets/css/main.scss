@@ -7,10 +7,13 @@
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Avenir, Inter, Source Sans Pro, Arial, DM Sans, sans-serif;//Charter, Georgia, Helvetica, Arial, sans-serif;
+// 
+$base-font-family: Inter, Source Sans Pro, Arial, sans-serif;//Charter, Georgia, Helvetica, Arial, sans-serif;
 $base-font-size: 14px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
+
+$alternative-font-family: Poppins, DM Sans, Arial, sans-serif;
 
 $spacing-unit: 30px;
 

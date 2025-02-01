@@ -34,8 +34,8 @@ footer:
       username: "@jeongeonp_"
     - name: LinkedIn
       link: https://www.linkedin.com/in/jeongeon-park-6b77051b9/
-    - name: GitHub
-      link: http://github.com/jeongeonp
+    # - name: GitHub
+    #   link: http://github.com/jeongeonp
     - name: SemanticScholar
       value: Semantic Scholar
       link: https://www.semanticscholar.org/author/Jeongeon-Park/78918606

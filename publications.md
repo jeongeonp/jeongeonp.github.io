@@ -8,12 +8,23 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-teaser-image">
+        <img class="img-shadow" src="./assets/img/teaser/chi25-teachtune-teaser.png" />
+    </div>
+    <div class="pub-contents" id="edulive">
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/chi25-teachtune.pdf" >TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students</a> <br/>
+        <a class="collaborator" href="https://jhw123.github.io/" >Hyoungwook Jin</a>, Minju Yoo, <b class="pub-me">Jeongeon Park</b>, Yokyung Lee, <a class="collaborator" href="https://web.eecs.umich.edu/~xwanghci/">Xu Wang</a>, <a class="collaborator" href="https://juhokim.com/" >Juho Kim</a> <br>
+        <span class="pub-venue">  CHI 2025 (to appear) </span> | <a id="plain-bg" href="https://arxiv.org/abs/2410.04078" >arXiv</a>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
         <img class="img-shadow" src="./assets/img/teaser/edulive-teaser.png" />
     </div>
     <div class="pub-contents" id="edulive">
-        <a id="blue-bg" class="pub-title" href="" >EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners' Transcript-Based Annotations</a> <br/>
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/cscw24-edulive.pdf" >EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners' Transcript-Based Annotations</a> <br/>
         <a class="collaborator" href="https://jc-fang.github.io/" >Jingchao Fang</a>, <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://juhokim.com/" >Juho Kim</a>, <a class="collaborator" href="http://www.haochuanwang.info/" >Hao-Chuan Wang</a> <br>
-        <span class="pub-venue">  CSCW 2024 (to appear) </span>
+        <span class="pub-venue">  CSCW 2024 </span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3686960" >ACM DL</a>
     </div>
 </div>
 
