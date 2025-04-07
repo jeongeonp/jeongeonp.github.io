@@ -16,7 +16,7 @@ header:
     - name: Publications
     - name: Personal
     - name: CV
-      slug: /assets/pdf/JeongeonPark_cv_250113.pdf
+      slug: /assets/pdf/JeongeonPark_cv_250407.pdf
     #- name: work
 
 footer:
@@ -36,9 +36,9 @@ footer:
       link: https://www.linkedin.com/in/jeongeon-park-6b77051b9/
     # - name: GitHub
     #   link: http://github.com/jeongeonp
-    - name: SemanticScholar
-      value: Semantic Scholar
-      link: https://www.semanticscholar.org/author/Jeongeon-Park/78918606
+    # - name: SemanticScholar
+    #   value: Semantic Scholar
+    #   link: https://www.semanticscholar.org/author/Jeongeon-Park/78918606
     - name: GoogleScholar
       value: Google Scholar
       link: https://scholar.google.com/citations?user=J6RjgLwAAAAJ&hl=en
