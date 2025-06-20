@@ -6,22 +6,23 @@ profile_picture:
 ---
 
 <p>
-Hi! My name is Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, and I am a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a> and <a id="blue-bg" href="https://designlab.ucsd.edu/">the Design Lab</a>.
+Hello! I'm Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a> and <a id="blue-bg" href="https://designlab.ucsd.edu/">the Design Lab</a>.
 
 </p>
 
 <p>
-My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. 
-In particular, I am interested in supporting individuals and groups to <span style="font-weight: 600">effectively navigate, comprehend, and utilize information on the web</span> in connection to their <span style="font-weight: 600">unique preferences and contexts</span>, through designing and building AI-infused interactive systems. 
+My research interest is in <span style="font-weight: 500">Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing</span>. 
+In particular, I am interested in <span style="font-weight: 500">surfacing unique preferences and contexts of individuals and groups</span> to support their effective navigation, comprehension, and utilization of information on the web. I mainly design and build AI-infused interactive systems.
+<!-- I am interested in supporting individuals and groups to <span style="font-weight: 600">effectively navigate, comprehend, and utilize information on the web</span> in connection to their <span style="font-weight: 600">unique preferences and contexts</span>. I mainly design and build AI-infused interactive systems.  -->
 </p> 
 
 <!-- <p>
-These days, I am interested in <b>how we could design optimal interactions for the human(s) to interact with LLM-powered agent(s)</b>, particularly in the context of academic speech rehearsal.
+My past research spans across topics such as crowdsourcing, 
 
 </p> -->
 
 <p>
-I got my M.S. and B.S. degrees from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Prior to joining UCSD, I was researcher at <a id="blue-bg" href="https://www.dgist.ac.kr/">DGIST</a> working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
+I got my M.S. and B.S. degrees from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing at KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Prior to joining UCSD, I was researcher at <a id="blue-bg" href="https://www.dgist.ac.kr/">DGIST</a> working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
 </p>
 
 
@@ -59,8 +60,13 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
    <tr>
+       <td class="highlights">May 2025</td>
+       <td> <a href="publications#value-centered" style="font-weight:500">Value-Driven Convergence</a> is accepted to <a href="https://ci.acm.org/2025/" style="font-weight:500">CI 2025</a> 📄
+       </td>
+    </tr>
+   <tr>
        <td class="highlights">Jan 2025</td>
-       <td> Our paper "TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students" is accepted to CHI 2025 📄
+       <td> <a href="publications#teachtune" style="font-weight:500">TeachTune</a> is accepted to CHI 2025 📄
        </td>
     </tr>
    <tr>

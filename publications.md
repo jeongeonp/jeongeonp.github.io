@@ -8,12 +8,23 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-teaser-image">
+        <img class="img-shadow" src="" />
+    </div>
+    <div class="pub-contents" id="value-centered">
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/.pdf" >Value-Centered Framing Supports Inclusive Idea Convergence in Participatory Civic Design</a> <br/>
+        <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://houirene.github.io/" >Irene Hou</a>, Risa Sundu, <a class="collaborator" href="https://spdow.ucsd.edu/" >Steven Dow</a> <br>
+        <span class="pub-venue">  CI 2025 (To Appear) </span>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
         <img class="img-shadow" src="./assets/img/teaser/chi25-teachtune-teaser.png" />
     </div>
-    <div class="pub-contents" id="edulive">
+    <div class="pub-contents" id="teachtune">
         <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/chi25-teachtune.pdf" >TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students</a> <br/>
         <a class="collaborator" href="https://jhw123.github.io/" >Hyoungwook Jin</a>, Minju Yoo, <b class="pub-me">Jeongeon Park</b>, Yokyung Lee, <a class="collaborator" href="https://web.eecs.umich.edu/~xwanghci/">Xu Wang</a>, <a class="collaborator" href="https://juhokim.com/" >Juho Kim</a> <br>
-        <span class="pub-venue">  CHI 2025 (to appear) </span> | <a id="plain-bg" href="https://arxiv.org/abs/2410.04078" >arXiv</a>
+        <span class="pub-venue">  CHI 2025 </span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3706598.3714054" >ACM DL</a> | <a id="plain-bg" href="https://arxiv.org/abs/2410.04078" >arXiv</a> | <a id="plain-bg" href="https://teachtune.kixlab.org/" >Project Website</a>
     </div>
 </div>
 

@@ -6,7 +6,7 @@ slug: /personal
 
 Interested in learning about what I like and do outside of research? Well, here you go!
 
-<h2>Random Facts about Me</h2>
+<h2>Music 🎵</h2>
 
 <!-- <p>
 After coming to grad school, I got into Pokémon... especially collecting Pokémon cards! Since then, whenever I see a card shop, I can't resist the urge to stop by and get a pack of cards to open 😅
@@ -38,3 +38,9 @@ Sharing some of my favorite pieces. Thankfully the recordings are available:
     </li>
     -->
 </ul>
+
+
+Recently I joined <a href="https://intermissionatucsd.org/">The Intermission Orchestra (TIO)</a>, a student-run orchestra at UC San Diego. The students arrange and conduct their own music, and put on concerts every quarter! It feels great to be able to casually play the clarinet again.
+<br/> <br/>
+
+In addition to clarinet, I played many other instruments in the past: piano 🎹, harmonica (two at the same time!) 🪗, erhu (二胡) 🪕, and drum 🥁. Music motivates, comforts, and inspires me in so many ways.
