@@ -22,7 +22,7 @@ My past research spans across topics such as crowdsourcing,
 </p> -->
 
 <p>
-I got my M.S. and B.S. degrees from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing at KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Prior to joining UCSD, I was researcher at <a id="blue-bg" href="https://www.dgist.ac.kr/">DGIST</a> working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
+I got my M.S. and B.S. degrees from the <a id="blue-bg" href="https://cs.kaist.ac.kr/">School of Computing at KAIST</a>, where I was part of the <a id="blue-bg" href="http://kixlab.org">KAIST Interaction Lab (KIXLAB)</a> led by <a id="blue-bg" href="https://juhokim.com/">Dr. Juho Kim</a>. Prior to joining UCSD, I was a researcher at <a id="blue-bg" href="https://www.dgist.ac.kr/">DGIST</a> working with <a id="blue-bg" href="https://jyskwon.github.io/">Dr. Jean Y. Song</a>.
 </p>
 
 
