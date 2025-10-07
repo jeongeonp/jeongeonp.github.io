@@ -8,12 +8,12 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-teaser-image">
-        <img class="img-shadow" src="" />
+        <img class="img-shadow" src="./assets/img/teaser/valuecentered-teaser.jpg" />
     </div>
     <div class="pub-contents" id="value-centered">
         <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/ci25-valuecentered.pdf" >Value-Centered Framing Supports Inclusive Idea Convergence in Participatory Civic Design</a> <br/>
-        <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://houirene.github.io/" >Irene Hou</a>, Risa Sundu, <a class="collaborator" href="https://spdow.ucsd.edu/" >Steven Dow</a> <br>
-        <span class="pub-venue">  CI 2025 (To Appear) </span>
+        <b class="pub-me">Jeongeon Park*</b>, <a class="collaborator" href="https://houirene.github.io/" >Irene Hou*</a>, Risa Sundu*, <a class="collaborator" href="https://spdow.ucsd.edu/" >Steven Dow</a> (* equal contribution) <br>
+        <span class="pub-venue">  CI 2025 </span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3715928.3737470" >ACM DL</a>
     </div>
 </div>
 

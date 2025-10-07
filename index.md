@@ -6,18 +6,20 @@ profile_picture:
 ---
 
 <p>
-Hello! I'm Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, a first-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a> and <a id="blue-bg" href="https://designlab.ucsd.edu/">the Design Lab</a>.
+Hello! I'm Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopronounce.com/jeongeon/36191893">🗣️</a>) Park, a second-year Ph.D. student at <a id="blue-bg" href="https://cogsci.ucsd.edu/">UC San Diego Cognitive Science</a>, working with <a id="blue-bg" href="https://spdow.ucsd.edu/">Dr. Steven Dow</a> as a member of <a id="blue-bg" href="https://protolab.ucsd.edu/">ProtoLab</a> and <a id="blue-bg" href="https://designlab.ucsd.edu/">the Design Lab</a>.
 
 </p>
 
 <p>
 My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. 
-In particular, I am interested in <span style="font-weight: 500">surfacing unique preferences and contexts of individuals and groups</span> to support their effective navigation, comprehension, and utilization of information on the web. I mainly design and build AI-infused interactive systems.
+I am interested in empowering laypeople and supporting domain experts to <span style="font-weight: 500">better understand and communicate complex knowledge</span>, by surfacing diverse facets of information and reflecting on one’s own preferences and context. I primarily build intelligent systems and use both quantitative and qualitative methods to understand the opportunities and risks of such systems.
+
+<!-- In particular, I am interested in <span style="font-weight: 500">surfacing unique preferences and contexts of individuals and groups</span> to support their effective navigation, comprehension, and utilization of information on the web. I mainly design and build AI-infused interactive systems. -->
 <!-- I am interested in supporting individuals and groups to <span style="font-weight: 600">effectively navigate, comprehend, and utilize information on the web</span> in connection to their <span style="font-weight: 600">unique preferences and contexts</span>. I mainly design and build AI-infused interactive systems.  -->
 </p> 
 
 <!-- <p>
-My past research spans across topics such as crowdsourcing, 
+My ongoing research focuses on the domain of <span style="font-weight: 500">participatory urban design</span> - designing a tangible tool for citizens to collaboratively discuss design ideas and constraints with LLM feedback and simulation - and <span style="font-weight: 500">scholarly communication</span> - exploring opportunities of generative AI support in scholarly communication by analyzing needs of different stakeholders in existing communication instances. 
 
 </p> -->
 
