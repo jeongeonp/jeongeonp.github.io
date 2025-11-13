@@ -4,7 +4,7 @@ title: Personal
 slug: /personal
 ---
 
-Here are some of the things I enjoy doing outside of research
+Here are some of the things I enjoy doing outside of research!
 
 <h2>Music 🎵</h2>
 
