@@ -12,7 +12,7 @@ Hello! I'm Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopro
 
 <p>
 My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. 
-I am interested in empowering laypeople and supporting domain experts to <span style="font-weight: 500">better understand and communicate complex knowledge</span>, by surfacing diverse facets of information and reflecting on one’s own preferences and context. I primarily build intelligent systems and use both quantitative and qualitative methods to understand the opportunities and risks of such systems.
+I am interested in empowering laypeople and domain experts to <span style="font-weight: 500">better sensemake and communicate complex knowledge</span>, by surfacing diverse facets of information and reflecting on one’s own preferences and context. I primarily build intelligent systems and use both quantitative and qualitative methods to understand the opportunities and risks of such systems.
 
 <!-- In particular, I am interested in <span style="font-weight: 500">surfacing unique preferences and contexts of individuals and groups</span> to support their effective navigation, comprehension, and utilization of information on the web. I mainly design and build AI-infused interactive systems. -->
 <!-- I am interested in supporting individuals and groups to <span style="font-weight: 600">effectively navigate, comprehend, and utilize information on the web</span> in connection to their <span style="font-weight: 600">unique preferences and contexts</span>. I mainly design and build AI-infused interactive systems.  -->

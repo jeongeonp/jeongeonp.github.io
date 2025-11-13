@@ -4,8 +4,8 @@
 
 @charset "utf-8";
 
-@use "sass:color";
-@use "sass:math";
+@use "sass:color" as *;
+@use "sass:math" as *;
 
 // Our variables (must be in main.scss for Jekyll Liquid support)
 $base-url: "{{ site.baseurl }}";
@@ -25,9 +25,9 @@ $background-color: #fdfdfd;
 $brand-color: #2a7ae7; //#446ccf;
 
 $grey-color: #828282;
-$grey-color-light: color.scale($grey-color, $lightness: 40%);
-$grey-color-semidark: color.scale($grey-color, $lightness: -15%);
-$grey-color-dark: color.scale($grey-color, $lightness: -25%);
+$grey-color-light: scale-color($grey-color, $lightness: 40%);
+$grey-color-semidark: scale-color($grey-color, $lightness: -15%);
+$grey-color-dark: scale-color($grey-color, $lightness: -25%);
 
 $on-mobile: 500px;
 $on-laptop: 800px;
