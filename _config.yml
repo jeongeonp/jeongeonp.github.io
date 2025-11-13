@@ -16,7 +16,7 @@ header:
     - name: Publications
     - name: Personal
     - name: CV
-      slug: /assets/pdf/JeongeonPark_cv_251009.pdf
+      slug: /cv
     #- name: work
 
 footer:

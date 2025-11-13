@@ -1,3 +1,5 @@
+@use "sass:math";
+
 /**
  * Site header
  */
@@ -113,7 +115,7 @@
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: math.div($spacing-unit, 2);
 }
 
 .contact-list,
@@ -125,21 +127,21 @@
 .footer-col-wrapper {
   font-size: 15px;
   color: $grey-color;
-  margin-left: -$spacing-unit / 2;
+  margin-left: math.div(-$spacing-unit, 2);
   @extend %clearfix;
 }
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 3;
-  padding-left: $spacing-unit / 3;
+  margin-bottom: math.div($spacing-unit, 3);
+  padding-left: math.div($spacing-unit, 3);
 }
 
 .footer-col-1,
 .footer-col-2,
 .footer-col-3 {
-  width: -webkit-calc(33% - (#{$spacing-unit} / 3));
-  width: calc(33% - (#{$spacing-unit} / 3));
+  width: -webkit-calc(33% - #{math.div($spacing-unit, 3)});
+  width: calc(33% - #{math.div($spacing-unit, 3)});
 }
 
 .follow-links > .social-link {
