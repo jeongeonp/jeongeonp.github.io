@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   HCI @ UCSD
 baseurl: "" # the subpath of the site
 url: "https://jeongeonpark.com" # the base hostname & protocol for the site
-og_image: /assets/img/jeongeon_profile_2023.jpg
+og_image: /assets/img/jeongeon_profile_2025.jpg
 google_analytics: "G-KP9N2FZX2C"
 
 header:

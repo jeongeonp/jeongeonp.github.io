@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/jeongeon_profile_2023.jpg
+  src: /assets/img/jeongeon_profile_2025.jpg
   alt: Profile picture of Jeongeon Park
 ---
 
