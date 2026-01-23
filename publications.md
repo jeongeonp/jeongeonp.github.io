@@ -8,6 +8,17 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-teaser-image">
+        <img class="img-shadow" src="./assets/img/teaser/choicemates-teaser.jpg" />
+    </div>
+    <div class="pub-contents" id="choicemates">
+        <a id="blue-bg" class="pub-title" >ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
+        <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://kihoon-son.github.io/">Kihoon Son</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
+        <span class="pub-venue">IUI 2026</span> | <a id="plain-bg" href="https://arxiv.org/abs/2310.01331" >arXiv (Oct 2023)</a>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-teaser-image">
         <img class="img-shadow" src="./assets/img/teaser/valuecentered-teaser.jpg" />
     </div>
     <div class="pub-contents" id="value-centered">
@@ -83,19 +94,10 @@ slug: /publications
     </div>
 </div>
 
-<div style="height: 20px"></div>
+<!-- <div style="height: 20px"></div>
 
-<h2>Preprints</h2>
-<div class="pub-container">
-    <div class="pub-teaser-image">
-        <img class="img-shadow" src="./assets/img/teaser/choicemates-teaser.jpg" />
-    </div>
-    <div class="pub-contents">
-        <a id="blue-bg" class="pub-title" >ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
-        <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://kihoon-son.github.io/">Kihoon Son</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
-        <span class="pub-venue">IUI 2026 (Conditionally Accepted) </span> | <a id="plain-bg" href="https://arxiv.org/abs/2310.01331" >arXiv (Oct 2023)</a>
-    </div>
-</div>
+<h2>Preprints</h2> -->
+
 
 
 

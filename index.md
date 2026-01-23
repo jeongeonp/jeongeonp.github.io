@@ -12,7 +12,7 @@ Hello! I'm Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopro
 
 <p>
 My research interest is in Human-Computer Interaction (HCI), Human-AI Interaction (HAI), and Social Computing. 
-I am interested in empowering laypeople and domain experts to <span style="font-weight: 500">better sensemake and communicate complex knowledge</span>, by surfacing diverse facets of information and reflecting on one’s own preferences and context. I primarily build intelligent systems and use both quantitative and qualitative methods to understand the opportunities and risks of such systems.
+I am interested in empowering people to <span style="font-weight: 500">better sensemake and communicate complex knowledge</span>, for example, by surfacing diverse facets of information and reflecting on one’s own preferences and context. I primarily build intelligent systems and use both quantitative and qualitative methods to understand the opportunities of such systems.
 
 <!-- In particular, I am interested in <span style="font-weight: 500">surfacing unique preferences and contexts of individuals and groups</span> to support their effective navigation, comprehension, and utilization of information on the web. I mainly design and build AI-infused interactive systems. -->
 <!-- I am interested in supporting individuals and groups to <span style="font-weight: 600">effectively navigate, comprehend, and utilize information on the web</span> in connection to their <span style="font-weight: 600">unique preferences and contexts</span>. I mainly design and build AI-infused interactive systems.  -->
@@ -61,6 +61,16 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <p>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
+   <tr>
+       <td class="highlights">Jan 2026</td>
+       <td> Gave a talk titled at the UC San Diego <a href="https://housingalliance.ucsd.edu/" style="font-weight:500">Housing Alliance Seminar</a> 🗣️
+       </td>
+    </tr>
+   <tr>
+       <td class="highlights">Jan 2026</td>
+       <td> <a href="publications#choicemates" style="font-weight:500">ChoiceMates</a> is accepted to <a href="https://iui.acm.org/2026/" style="font-weight:500">IUI 2026</a>. See you in Cyprus! 📄
+       </td>
+    </tr>
    <tr>
        <td class="highlights">May 2025</td>
        <td> <a href="publications#value-centered" style="font-weight:500">Value-Driven Convergence</a> is accepted to <a href="https://ci.acm.org/2025/" style="font-weight:500">CI 2025</a> 📄
