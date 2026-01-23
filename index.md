@@ -63,7 +63,7 @@ Send me an email if you want to chat about research, life, or anything! <br/>
    <table style="padding-bottom:10px; ">
    <tr>
        <td class="highlights">Jan 2026</td>
-       <td> Gave a talk titled at the UC San Diego <a href="https://housingalliance.ucsd.edu/" style="font-weight:500">Housing Alliance Seminar</a> 🗣️
+       <td> Gave a talk at the UC San Diego <a href="https://housingalliance.ucsd.edu/" style="font-weight:500">Housing Alliance Seminar</a> 🗣️
        </td>
     </tr>
    <tr>
