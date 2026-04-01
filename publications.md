@@ -13,7 +13,7 @@ slug: /publications
     <div class="pub-contents" id="choicemates">
         <a id="blue-bg" class="pub-title" >ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
         <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://kihoon-son.github.io/">Kihoon Son</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
-        <span class="pub-venue">IUI 2026</span> | <a id="plain-bg" href="https://arxiv.org/abs/2310.01331" >arXiv (Oct 2023)</a>
+        <span class="pub-venue">IUI 2026</span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3742413.3789107" >ACM DL</a> | <a id="plain-bg" href="https://arxiv.org/abs/2310.01331" >arXiv (Oct 2023)</a>
     </div>
 </div>
 
