@@ -62,6 +62,11 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
    <tr>
+       <td class="highlights">Apr 2026</td>
+       <td> Attnding <a href="https://chi2026.acm.org/">CHI 2026</a> and the <a href="https://data-literacy-workshop.github.io/CHI26/">Data Literacy Workshop</a> on Monday to discuss <a href="publications#dataliteracy" style="font-weight:500">my position paper</a>. See you in Barcelona! ✈️
+       </td>
+    </tr>
+   <tr>
        <td class="highlights">Jan 2026</td>
        <td> Gave a talk at the UC San Diego <a href="https://housingalliance.ucsd.edu/" style="font-weight:500">Housing Alliance Seminar</a> 🗣️
        </td>

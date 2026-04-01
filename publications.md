@@ -11,7 +11,7 @@ slug: /publications
         <img class="img-shadow" src="./assets/img/teaser/choicemates-teaser.jpg" />
     </div>
     <div class="pub-contents" id="choicemates">
-        <a id="blue-bg" class="pub-title" >ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/papers/iui26-choicemates.pdf">ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions</a> <br/>
         <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://kihoon-son.github.io/">Kihoon Son</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
         <span class="pub-venue">IUI 2026</span> | <a id="plain-bg" href="https://dl.acm.org/doi/10.1145/3742413.3789107" >ACM DL</a> | <a id="plain-bg" href="https://arxiv.org/abs/2310.01331" >arXiv (Oct 2023)</a>
     </div>
@@ -104,6 +104,22 @@ slug: /publications
 <div style="height: 20px"></div>
 
 <h2>Posters, Demos, Workshop Papers</h2>
+<div class="pub-container">
+    <div class="pub-contents" id="dataliteracy">
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/posters/chi26-dataliteracy-peoplecentered.pdf" >Data Literacy in Participatory Civic Design: A People-Centered Approach</a> <br/>
+        <b class="pub-me">Jeongeon Park</b> and <a class="collaborator" href="https://spdow.ucsd.edu/" >Steven Dow</a> <br>
+        <a class="pub-venue" id="plain-bg" href="https://data-literacy-workshop.github.io/CHI26/"> CHI 2026 Data Literacy Workshop</a>
+    </div>
+</div>
+
+<div class="pub-container">
+    <div class="pub-contents">
+        <a id="blue-bg" class="pub-title" href="./assets/pdf/posters/chi24-sensemaking-choicemates.pdf" >How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?</a> <br/>
+        <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
+        <span class="pub-venue"> CHI 2024 Sensemaking Workshop </span>
+    </div>
+</div>
+
 <div class="pub-container">
     <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="./assets/pdf/posters/chi24-sensemaking-choicmates.pdf" >How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?</a> <br/>
