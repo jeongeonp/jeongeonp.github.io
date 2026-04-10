@@ -63,7 +63,7 @@ Send me an email if you want to chat about research, life, or anything! <br/>
    <table style="padding-bottom:10px; ">
    <tr>
        <td class="highlights">Apr 2026</td>
-       <td> Attnding <a href="https://chi2026.acm.org/">CHI 2026</a> and the <a href="https://data-literacy-workshop.github.io/CHI26/">Data Literacy Workshop</a> to discuss <a href="publications#dataliteracy" style="font-weight:500">my position paper</a> on Monday. See you in Barcelona! ✈️
+       <td> Attending <a href="https://chi2026.acm.org/">CHI 2026</a> and the <a href="https://data-literacy-workshop.github.io/CHI26/">Data Literacy Workshop</a> to discuss <a href="publications#dataliteracy" style="font-weight:500">my position paper</a> on Monday. See you in Barcelona! ✈️
        </td>
     </tr>
    <tr>
