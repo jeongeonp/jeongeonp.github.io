@@ -62,7 +62,7 @@ Send me an email if you want to chat about research, life, or anything! <br/>
 <div style="overflow-y: scroll; max-height: 220px;">
    <table style="padding-bottom:10px; ">
    <tr>
-     <td class="highlights">Apr 2026</td>
+     <td class="highlights">Jul 2026</td>
      <td> While I won't be at Cyprus in person, <a href="publications#choicemates" style="font-weight:500">ChoiceMates</a> will be presented in <a href="https://iui.acm.org/2026/">IUI 2026</a> by the wonderful <a href="https://jyskwon.github.io/">Jean Y. Song</a>! Happy to discuss anything about the paper, email me! 📄
      </td>
   </tr>
