@@ -114,14 +114,6 @@ slug: /publications
 
 <div class="pub-container">
     <div class="pub-contents">
-        <a id="blue-bg" class="pub-title" href="./assets/pdf/posters/chi24-sensemaking-choicemates.pdf" >How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?</a> <br/>
-        <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
-        <span class="pub-venue"> CHI 2024 Sensemaking Workshop </span>
-    </div>
-</div>
-
-<div class="pub-container">
-    <div class="pub-contents">
         <a id="blue-bg" class="pub-title" href="./assets/pdf/posters/chi24-sensemaking-choicmates.pdf" >How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?</a> <br/>
         <b class="pub-me">Jeongeon Park</b>, <a class="collaborator" href="https://bryanmin.me/">Bryan Min</a>, <a class="collaborator" href="https://jyskwon.github.io/">Jean Y. Song</a>, <a class="collaborator" href="https://www.cse.ust.hk/~mxj/">Xiaojuan Ma</a>, <a class="collaborator" href="https://juhokim.com/">Juho Kim</a> <br>
         <span class="pub-venue"> CHI 2024 Sensemaking Workshop </span>
