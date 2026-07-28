@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/jeongeon_profile_2025.jpg
+  src: /assets/img/jeongeon_profile_2026.png
   alt: Profile picture of Jeongeon Park
 ---
 
@@ -11,7 +11,7 @@ Hello! I'm Jeongeon (<i>Jeong-ON</i> <a id="plain-bg" href="https://www.howtopro
 </p>
 
 <p>
-My research interests are in Human-Computer Interaction (HCI) and Human-AI Interaction (HAI). I am interested in how complex knowledge and information are constructed, represented, and shared, and, more importantly, how technology is shaping and can better support users in engaging with complex knowledge and information. I primarily build intelligent systems and use both quantitative and qualitative methods to understand the opportunities these systems create.
+My research interests are in Human-Computer Interaction (HCI) and Human-AI Interaction (HAI). I am interested in <span style="font-weight: 600">how complex knowledge and information are constructed, represented, and shared</span>, and how emerging technologies such as LLMs shape and can better support the ways users engage with them. I primarily build intelligent systems and use mixed-methods to understand the opportunities and challenges of these systems.
 <!-- I am interested in empowering people to <span style="font-weight: 500">better sensemake and communicate complex knowledge</span>, for example, by surfacing diverse facets of information and reflecting on one’s own preferences and context.  -->
 
 <!-- In particular, I am interested in <span style="font-weight: 500">surfacing unique preferences and contexts of individuals and groups</span> to support their effective navigation, comprehension, and utilization of information on the web. I mainly design and build AI-infused interactive systems. -->
